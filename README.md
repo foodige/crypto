@@ -1,5 +1,7 @@
 # crypto
 
+### Foundational articles and white papers
+* [On public and private blockchain (Vitalik Buterin)](https://blog.ethereum.org/2015/08/07/on-public-and-private-blockchains/)
 
 ### Curated List
 * [Crypto Resources Recommended by Alex Hardy](https://docs.google.com/spreadsheets/d/1BKwsCzCKiB5Jn-nrjKlEA75AXSZiONZ4rUGIA_8QW_Y/edit#gid=0)
