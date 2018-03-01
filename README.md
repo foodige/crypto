@@ -14,3 +14,6 @@
 
 ### Recommended readings
  * [How to become a blockchain master](https://www.quora.com/How-can-I-become-a-Blockchain-master)
+ 
+ ### Recommended readings
+ * [Blockchain applications: 7 cool decentralized apps built with etherum](https://www.coindesk.com/7-cool-decentralized-apps-built-ethereum/)
