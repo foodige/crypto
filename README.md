@@ -12,6 +12,10 @@
 * [Blockchain for Business - An Introduction to Hyperledger TechnologiesPrivate blockchain](https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x)
 * [Certified Bitcoin Professional](https://cryptoconsortium.org/certifications/CBP)
 
+### Business Blockchain
+* [HyperLedger Architecture, Volume 1](https://www.hyperledger.org/wp-content/uploads/2017/08/HyperLedger_Arch_WG_Paper_1_Consensus.pdf)
+
+
 ### Recommended readings
  * [How to become a blockchain master](https://www.quora.com/How-can-I-become-a-Blockchain-master)
  
